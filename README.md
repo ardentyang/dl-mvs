@@ -13,6 +13,10 @@ Since 2016, methods based on deep neural networks have become popular in the fie
 - DRSN-CW: [Deep Residual Shrinkage Networks for Fault Diagnosis](https://ieeexplore.ieee.org/document/8850096)
 - BiLSTM-Attention: [Understanding and improving deep learning-based rolling bearing fault diagnosis with attention mechanism](https://www.sciencedirect.com/science/article/pii/S0165168419301124)
 
+### 2020
+- SIRCNN: [A lightweight neural network with strong robustness for bearing fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0263224120302943)
+- S-MixNet: [A study on adaptation lightweight architecture based deep learning models for bearing fault diagnosis under varying working conditions](https://www.sciencedirect.com/science/article/abs/pii/S0957417420305340)
+
 ### 2021
 - MCNN-LSTM: [Bearing fault diagnosis base on multi-scale CNN and LSTM model](https://link.springer.com/article/10.1007/s10845-020-01600-2)
 
