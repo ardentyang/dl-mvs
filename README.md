@@ -1,6 +1,6 @@
-# Deep learning model for mechanical vibration signals
+# Deep learning models for mechanical vibration signals
 
-Since 2016, methods based on deep neural networks have become popular in the field of mechanical fault diagnosis. The following are deep learning models I reproduced using Pytorch in my research, with vibration signals as their input. I look forward to communicating or discussing with you who are looking at this project in order to correct errors or make improvements.
+Since 2016, methods based on deep neural networks have become popular in the field of mechanical fault diagnosis. During my research, I reproduced the deep learning models proposed in some literature in this field. I look forward to communicating or discussing with you who are looking at this project so as to correct errors or make improvements.
 
 ## Models
 ### 2018
